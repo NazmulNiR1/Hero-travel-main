@@ -434,12 +434,8 @@ background: rgba(19, 19, 24, 0.05);
 margin-bottom: 1rem;
 border: none;
 padding: 1rem
-
-
 }
 .form-section button{
-  
-  
   width: 24.6rem;
   height: 2rem;
   border: none;
@@ -451,12 +447,9 @@ font-size: 20px;
 font-weight: 800;
 margin-left: 1rem;
 padding: 2rem ;
-
 }
-
-
 .img-section{
-  width: 30rem;
+  width: 276px;
   height: 26.4rem;
   position: relative;
   }
@@ -689,6 +682,7 @@ margin-top: 3.5rem;
     width: 300px;
      }
       /* simple place section */
+
   .place {
     flex-direction: column;
   }
@@ -697,13 +691,13 @@ margin-top: 3.5rem;
     top: 30%;
     left: 22%;
   }
-  .place {
-    flex-direction: column;
-  }
 
-  .place-image-caption {
-    top: 30%;
-    left: 22%;
-  }
+  .newsletter{
+    
+      width: 499px;
+    }
   
+  .img-section{
+    flex-direction: column
+  }
 }
